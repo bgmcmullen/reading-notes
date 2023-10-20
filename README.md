@@ -4,7 +4,7 @@ As a student at ***Code Fellows*** I use this page to document my document and o
 
 ## ~~Code 102 - Intro to Software Development~~
 _I tested out of this course._
-## _Code 201 - Foundations of Software Development_
+## *Code 201 - Foundations of Software Development*
 _I am a current student in this course._
 
 ## Code 301 - Intermediate Software Development
