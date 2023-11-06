@@ -34,3 +34,4 @@ Semantic tags as some benefits both when communicating with computers and with o
 \
 JavaScript is used in almost all websites. It is needed for things like animated graphics and interactive games.\
 \
+JS it added to the a HTML document with the script element typically with a link to another file but it can be written directly into the content of the element.
