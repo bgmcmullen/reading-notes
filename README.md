@@ -1,6 +1,6 @@
 # Reading Notes
 
-As a student at ***Code Fellows*** I use this page to document my document and organize my learning process and coding knowledge.
+As a student at ***Code Fellows*** I use this page to document my questions and observations from reading assignments and to organize my learning process and coding knowledge.
 
 ## ~~Code 102 - Intro to Software Development~~
 _I tested out of this course._
