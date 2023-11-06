@@ -20,16 +20,17 @@ HTML attributes are a way to add additional information to one HTML element\
 \
 An HTML element begins with an open tag and end with closing tag which is identical to the opening tag but with a slash. The tags element's content will go between the tags.\
 \
-The <article> element is used to make a block of independent content on a webpage. The <section> element does something similar but as the name suggests it is intended for dividing the page into independent sections.\
+The article element is used to make a block of independent content on a webpage. The section element does something similar but as the name suggests it is intended for dividing the page into independent sections.\
 \
-A typical website will need a <header> likely a <nave> for the navigation bar, <main> for the content, possibly an <aside> for the side for and a <footer>. There will mostly like be <article >, <section> and/or <div> elements in the <main> element.\
+A typical website will need a header likely a nav for the navigation bar, main for the content, possibly an aside for the side for and a footer. There will mostly like be article, section or div elements in the main element.\
 \
-Metadata is data telling us about other data. The <meta> element is used in the <head> for information like the character set, language, author, or other information about the page.\
+Metadata is data telling us about other data. The meta element is used in the head for information like the character set, language, author, or other information about the page.\
 \
-When designing a website before jumping into the technical work it is important to determine the purpose and goals of the website and those will be achieved. The most important question is what are you trying to accomplish\
+When designing a website before jumping into the technical work it is important to determine the purpose and goals of the website and those will be achieved. The most important question is what are you trying to accomplish.\
 \
-<h1> has a particular purpose. It is a top level heading and should be used specifically for that. If are you writing customized text that is not the heading <span> would be a better choice.\
+h1 has a particular purpose. It is a top level heading and should be used specifically for that. If are you writing customized text that is not the heading span would be a better choice.\
 \
 Semantic tags as some benefits both when communicating with computers and with other human. Good use of semantic tags will give other developers a clearer idea of the purpose of the content of the tags. Also search engines and screen readers with see the content of semantic tags as important.\
 \
-
+JavaScript is used in almost all websites. It is needed for things like animated graphics and interactive games.\
+\
