@@ -30,7 +30,7 @@ This would evaluate to a string: 10dog. First the parentheses are evaluated. Fal
 You could use a conditional if...else statement to write code to determine if the user has answered a question correctly. If they have they would be congratulated if not they would be told to try again.\
 \
 Loops are very common. The are used basically any time you need the same code to be repeated multiple times often with the variables changing each time.\
-\
-## Things I want to know more about\
+
+## Things I want to know more about
 \
 While I think I have a good basic understanding of how the box model works I don't yet have a clear idea of the best practices to use this model to make esthetically effective websites.
