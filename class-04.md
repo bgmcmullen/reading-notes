@@ -1,6 +1,6 @@
 # Class 04 Reading Notes:
 
-For a basic link the text is put in an a element.\
+For a basic link the text is put in an "a" element.\
 \
 The href attribute contains the url you are linking to.\
 \
