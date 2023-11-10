@@ -18,7 +18,7 @@ Absolute positioning positions an element relative to its parent element. Fixed 
 \
 A function declaration is where you define what the function does but it does not make the function run. A function invocation makes the function run.\
 \
-Argument is another work for a parameter. They can also be called properties or attributes.\
+Argument is another word for a parameter. They can also be called properties or attributes.\
 \
 Job interview readiness:\
 To succeed in a job interview you not only need to understand the relevant skills but also be able to communicate them effectively. So far I am understanding the concepts in this class without too much issue. However, communicating the concepts to others will likely be much more of a challenge. Working with others will force me to practice this.\
