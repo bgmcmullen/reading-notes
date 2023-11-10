@@ -1,10 +1,10 @@
 # Class 04 Reading Notes:
 
-For a basic link the text is put in an "<a>" element.\
+For a basic link the text is put in an <a> element.\
 \
 The href attribute contains the url you are linking to.\
 \
-To make a link accessible the text should be descriptive not just "Click here", it should not it's self be the url, should not use the work "link", it should be concise, and whenever possible each link on a page should have unique text.\
+To make a link accessible the text should be descriptive not just Click here, it should not it's self be the url, should not use the word link, it should be concise, and whenever possible each link on a page should have unique text.\
 \
 Normal flow refers to the way elements on a webpage are laid out by default if you do not change them.\
 \
