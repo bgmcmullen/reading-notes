@@ -17,11 +17,11 @@ An event listener needs two arguments, what event to listen for and a function t
 An event object is an object the browser creates for each event. It contains the relevant information for the event but the contents may be different depending on the event. The target property is the element that the event occurred to.\
 \
 Event bubbling is the standard way that the browser handles listeners on parent elements. The listener also applies to child elements. When event capturing is enabled it works the other way with the child element's listener applying to the parent.\
-\
+
 
 
 ## Things I want to know more about
 When would event capturing be used?
 
-##References
+## References
 Referenced ChatGPT
