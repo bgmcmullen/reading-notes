@@ -1,4 +1,4 @@
-# Class 11 Reading Notes:\
+# Class 11 Reading Notes:
 \
 The introduction of Flash and Silverlight and other similar technologies was a game changer when it comes to online video and audio. These have how been replaced with the  html elements "video" and "audio".\
 \
@@ -19,6 +19,6 @@ Responsive images not only can make website function on different sized screens 
 The issue with using css or js for responsive images is that that browser downloads images before it interprets js or css so it would end up downloading the wrong images then download another image to display when it finds out the one it downloaded is not the one it is supposed to display and this is very inefficient.
 
 
-\
-
 ## Things I want to know more about.
+What types of audio files and quality are best for websites.
+
