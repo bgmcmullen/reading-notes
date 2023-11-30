@@ -20,5 +20,5 @@ The issue with using css or js for responsive images is that that browser downlo
 
 
 ## Things I want to know more about.
-What types of audio files and quality are best for websites.
+What types of audio files and quality are best for websites?
 
