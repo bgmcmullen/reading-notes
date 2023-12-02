@@ -18,7 +18,8 @@ _I am a current student in this course._\
 [Class 10](https://bgmcmullen.github.io/reading-notes/class-10)\
 [Class 11](https://bgmcmullen.github.io/reading-notes/class-11)\
 [Class 12](https://bgmcmullen.github.io/reading-notes/class-12)\
-[Class 13](https://bgmcmullen.github.io/reading-notes/class-13)
+[Class 13](https://bgmcmullen.github.io/reading-notes/class-13)\
+[Class 14](https://bgmcmullen.github.io/reading-notes/class-14)
 
 ## Code 301 - Intermediate Software Development
 ## Code 401 - Advanced Software Development
