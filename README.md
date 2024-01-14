@@ -22,5 +22,5 @@ _I tested out of this course._
 [Class 14 Psychological Safety](https://bgmcmullen.github.io/reading-notes/class-14-Psychological-Safety)
 
 ## *Code 301 - Intermediate Software Development*
-_I am a current student in this course._\
+_I am a current student in this course._
 ## Code 401 - Advanced Software Development
