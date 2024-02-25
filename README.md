@@ -23,4 +23,5 @@ _I tested out of this course._
 
 ## *Code 301 - Intermediate Software Development*
 _I am a current student in this course._
+[Class 01](https://bgmcmullen.github.io/reading-notes/301/class-01)\
 ## Code 401 - Advanced Software Development
