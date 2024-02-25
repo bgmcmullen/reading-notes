@@ -10,7 +10,7 @@ Not context specific − Components are designed to operate in different environ
 Extensible − A component can be extended from existing components to provide new behavior.\
 Encapsulated − A A component depicts the interfaces, which allow the caller to use its functionality, and do not expose details of the internal processes or any internal variables or state.\
 Independent − Components are designed to have minimal dependencies on other components."\
-	“Component-Based Architecture,” Tutorialspoint, accessed February 25, 2024, https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm.\
+Citation: “Component-Based Architecture,” Tutorialspoint, accessed February 25, 2024, https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm.\
 \
 The Advantages of component-based architecture are:\
 \
@@ -22,7 +22,7 @@ Modification of technical complexity − A component modifies the complexity thr
 Reliability − The overall system reliability increases since the reliability of each individual component enhances the reliability of the whole system via reuse.\
 System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development."\
-	“Component-Based Architecture,” Tutorialspoint, accessed February 25, 2024, https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm.
+Citation: “Component-Based Architecture,” Tutorialspoint, accessed February 25, 2024, https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm.
 
 
 
