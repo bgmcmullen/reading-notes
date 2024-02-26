@@ -1,6 +1,6 @@
 # Class 01 Reading Notes:
 
-A component is a piece of code designed with a specific, reusable and portable functionality and can often interact with other components.\
+A component is a piece of code designed with a specific, reusable and versatile functionality, and can often interact with other components.\
 \
 The Characteristic of a component are:\
 \
@@ -27,3 +27,4 @@ Citation: “Component-Based Architecture,” Tutorialspoint, accessed February 
 
 
 ## Things I want to know more about.
+In addition to React are there other component based systems useful to know?
