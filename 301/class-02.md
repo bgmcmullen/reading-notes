@@ -14,5 +14,7 @@ The main difference between props and state is that props are past into the comp
 
 You can re-render part of a component as needed with state but this is not the case with props because props are handle outside the component.
 
+State is used to store variables that we need change inside the component such as number to keep track of a count.
+
 ## Things I want to know more about.
 Is there situation where either props or state could work? If so, is one more efficient for the computer to process that the other?
