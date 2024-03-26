@@ -1,35 +1,41 @@
-## Class 06 Reading Notes:
+## Class 07 Reading Notes:
 
 
-To what extent did psychological safety impact your previous work experience?\
+1. What is Node.js?\
+Node.js is a server-side runtime environment that allows developers to run JavaScript on a server.\
 \
-I am lucky to have never had an abusive or rude employer who actively suppressed ideas, but I have worked in environments where there was a lack of trust, making it hard to solve workplace problems since although people were polite, they did not want to speak up.\
+2. In your own words, what is Chrome’s V8 JavaScript Engine?\
+The V8 is a JavaScript engine that can run in Chrome-based browsers and was the basis of Node.js.\
 \
-How does this article inform your approach to working with others moving forward?\
+3. What does it mean that Node is a JavaScript runtime?\
+Node is a JavaScript runtime, meaning that it can be used to execute JavaScript on a computer.\
 \
-I agree with the quote “However, establishing psychological safety is, by its very nature, somewhat messy and difficult to implement.” But of course, that doesn’t mean that it is not important and necessary to implement. I think an important takeaway is that it is important to give yourself and your team some slack. They are human and are not perfect. Psychological safety is not an exact science and it can’t always be optimized 100% of the time.\
+4. What is npm?\
+npm is a package manager that comes bundled with Node and contains numerous packages of JavaScript code.\
 \
-Who is Roy Fielding?\
-Roy Fielding is a researcher and computer scientist who played an important role in writing the first web servers.\
+5. What version of Node are you running on your machine?\
+v21.5.0\
 \
-Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?\
-Most modern techniques don’t work well communicating with all the machines because when they were invented, that was no longer considered necessary.\
+6. What command would you type to install a library/package called ‘jshint’?\
+“npm install jshint” or “npm install -g jshint” to install it globally.\
 \
-What is the HTTP protocol that Fielding and his friends created?\
-The HTTP protocol is the basis for most of the internet. It is like coordinates for data.\
+7. What is Node used for?\
+Node is very versatile with multiple applications, but when used with npm, it automates building a JavaScript application.\
 \
-What does a GET do?\
-A GET will get data from a server to the browser.\
+6. What are the 6 reasons for pair programming?\
+"1. Greater efficiency\
+2. Engaged collaboration\
+3. Learning from fellow students\
+4. Social skills\
+5. Job interview readiness\
+6. Work environment readiness"\
 \
-What does a POST do?\
-POST adds something to another system.\
+8. In your experience, which of these reasons have you found most beneficial?\
+I would say learning from fellow students has been most useful.\
 \
-What does PUT do?\
-PUT updates something in another system.\
+9. How does pair programming work?\
+Generally, in pair programming, there is a driver who types the code and a navigator who oversees the coding.\
 \
-What does PATCH do?\
-PATCH does a partial update.\
-\
-## Things I want to know more about:
-Are there techniques specific to communicating large number of machines.
+## Citation:
+Grampa, A., & Grampa, A. (2018, August 24). 6 reasons for pair programming. Code Fellows. https://www.codefellows.org/blog/6-reasons-for-pair-programming/ 
 
