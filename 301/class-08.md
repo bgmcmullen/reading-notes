@@ -12,9 +12,9 @@ o “POST creates a new resource at the specified URI. The body of the request m
 o “PUT either creates or replaces the resource at the specified URI. The body of the request message specifies the resource to be created or updated.”\
 o “PATCH performs a partial update of a resource. The request body specifies the set of changes to apply to the resource.”\
 o “DELETE removes the resource at the specified URI.”\
-###Things I want to know more about:
+### Things I want to know more about:
 	What other concerns are important when optimizing the efficiency of a webserver?
-###Citation: 
+### Citation: 
 Martinekuan. (n.d.). Web api design best practices - azure architecture center. Web API design best practices - Azure Architecture Center | Microsoft Learn. https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design 
 
 

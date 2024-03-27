@@ -14,7 +14,7 @@ Citation: Tk. (2019, July 8). Concepts of functional programming in Javascript. 
 3. How do we bring another module into the file that we are working in? To bring in another module, we need to export the parts of the module we need in another module with module.exports. Then import the module with require.\
 4. What do we have to do to make a module available? module.exports.\
 
-###Things I want to know more about:
+### Things I want to know more about:
 Other than being used for Node compared to React, are there nuances of difference between what require and import do?
 
 
