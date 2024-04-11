@@ -35,5 +35,6 @@ _I am a current student in this course._
 [Class 09](https://bgmcmullen.github.io/reading-notes/301/class-09)\
 [Class 10](https://bgmcmullen.github.io/reading-notes/301/class-10)\
 [Class 11](https://bgmcmullen.github.io/reading-notes/301/class-11)\
-[Class 12](https://bgmcmullen.github.io/reading-notes/301/class-12)
+[Class 12](https://bgmcmullen.github.io/reading-notes/301/class-12)\
+[Class 13](https://bgmcmullen.github.io/reading-notes/301/class-13)
 ## Code 401 - Advanced Software Development
