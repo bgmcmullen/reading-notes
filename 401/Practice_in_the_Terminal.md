@@ -1,4 +1,4 @@
-### Peace in the Terminal
+### Practice in the Terminal
 ## The Command Line 
 A command line is simply a text interface with a computer system. How we get to one will depend on the operating system. Inside the terminal, we work within a shell; the most common type of shell is BASH (Bourne Again Shell).
 ## Basic Navigation 
