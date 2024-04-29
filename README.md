@@ -42,5 +42,5 @@ _I tested out of this course._
 _I am a current student in this course._
 
 [SQL_Practice](https://bgmcmullen.github.io/reading-notes/401/SQL_Practice)
-[Practice in the Terminal](https://bgmcmullen.github.io/reading-notes/401/Practice_in_the_Terminal.md)
-[The Growth Mindset](https://bgmcmullen.github.io/reading-notes/401/The_Growth_Mindset.md)
+[Practice in the Terminal](https://bgmcmullen.github.io/reading-notes/401/Practice_in_the_Terminal)
+[The Growth Mindset](https://bgmcmullen.github.io/reading-notes/401/The_Growth_Mindset)
