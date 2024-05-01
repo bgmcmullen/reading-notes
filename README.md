@@ -45,4 +45,5 @@ _I am a current student in this course._
 [Practice in the Terminal](https://bgmcmullen.github.io/reading-notes/401/Practice_in_the_Terminal.md)
 [The Growth Mindset](https://bgmcmullen.github.io/reading-notes/401/The_Growth_Mindset.md)\
 [Class 01](https://bgmcmullen.github.io/reading-notes/401/class-01)\
-[Class 01](https://bgmcmullen.github.io/reading-notes/401/class-02)
+[Class 02](https://bgmcmullen.github.io/reading-notes/401/class-02)\
+[Class 03](https://bgmcmullen.github.io/reading-notes/401/class-03)

@@ -1,4 +1,4 @@
-# Class 01 Reading Notes:
+# Class 02 Reading Notes:
 
 ## An introduction to Node.js and Express
 1.	Explain middleware, as if explaining to a non-technical recruiter.
