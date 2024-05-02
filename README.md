@@ -46,4 +46,5 @@ _I am a current student in this course._
 [The Growth Mindset](https://bgmcmullen.github.io/reading-notes/401/The_Growth_Mindset.md)\
 [Class 01](https://bgmcmullen.github.io/reading-notes/401/class-01)\
 [Class 02](https://bgmcmullen.github.io/reading-notes/401/class-02)\
-[Class 03](https://bgmcmullen.github.io/reading-notes/401/class-03)
+[Class 03](https://bgmcmullen.github.io/reading-notes/401/class-03)\
+[Class 04](https://bgmcmullen.github.io/reading-notes/401/class-04)
