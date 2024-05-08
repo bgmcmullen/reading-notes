@@ -5,7 +5,7 @@
 Role-based access control is a way to give users of a site only access to specific functions based on what their role is. This is important to make sure that important changes on a website can only be done by those with the proper authority.
 ### Describe a Role/Permission hierarchy that you might implement using RBAC. 
 Manager: create, read, update, delete\
-Employee: read, update\ 
+Employee: read, update\
 Guest: read
 ### What approach might you take to implement RBAC?
 First, identify roles and what permissions each should have, then assign the roles to the users, and finally run tests to make sure the system is working and no one has access to permissions they should not.
