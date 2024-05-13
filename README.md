@@ -50,4 +50,5 @@ _I am a current student in this course._
 [Class 04](https://bgmcmullen.github.io/reading-notes/401/class-04)\
 [Class 06](https://bgmcmullen.github.io/reading-notes/401/class-06)\
 [Class 07](https://bgmcmullen.github.io/reading-notes/401/class-07)\
-[Class 08](https://bgmcmullen.github.io/reading-notes/401/class-08)
+[Class 08](https://bgmcmullen.github.io/reading-notes/401/class-08)\
+[Class 10](https://bgmcmullen.github.io/reading-notes/401/class-10)
