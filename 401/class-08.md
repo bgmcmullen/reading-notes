@@ -1,4 +1,4 @@
-# Class 06 Reading Notes:
+# Class 08 Reading Notes:
 
 
 ### What is Role-Based Access Control (RBAC) and why do we care? 
