@@ -60,4 +60,5 @@ _I am a current student in this course._
 [Class 19](https://bgmcmullen.github.io/reading-notes/401/class-19)\
 [Class 26](https://bgmcmullen.github.io/reading-notes/401/class-26)\
 [Class 27](https://bgmcmullen.github.io/reading-notes/401/class-27)\
-[Class 28](https://bgmcmullen.github.io/reading-notes/401/class-28)
+[Class 28](https://bgmcmullen.github.io/reading-notes/401/class-28)\
+[Class 29](https://bgmcmullen.github.io/reading-notes/401/class-29)
