@@ -16,8 +16,8 @@ Don’t pass states through more layers than necessary.
 ## Passing State Deeply with Context
 ### 1. What problem do Contexts aim to solve?
 Prop drilling
-2. What is one technique to try before useContext?
+### 2. What is one technique to try before useContext?
 Lifting state up.
-3. What hook complements useContext for complex applications?
+### 3. What hook complements useContext for complex applications?
 useReducer
 
