@@ -9,7 +9,8 @@ A store is a library we use to manage the state of our application. A reducer ca
 getState() - This returns the current state of the store.\
 dispatch() - This dispatches an action to change the state.\
 subscribe() - This lets you give a callback function to be called when the state changes.
-### 4. Explain to a non-technical recruiter what combineReducers() does and why it is useful. This function lets you split state management into multiple reducer functions. Think of it like a large company: combineReducers is the senior management and each reducer in the object is a separate department.
+### 4. Explain to a non-technical recruiter what combineReducers() does and why it is useful.
+ This function lets you split state management into multiple reducer functions. Think of it like a large company: combineReducers is the senior management and each reducer in the object is a separate department.
 
 
 
