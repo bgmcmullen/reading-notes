@@ -68,4 +68,5 @@ _I am a current student in this course._
 [Class 34](https://bgmcmullen.github.io/reading-notes/401/class-34)\
 [Class 36](https://bgmcmullen.github.io/reading-notes/401/class-36)\
 [Class 37](https://bgmcmullen.github.io/reading-notes/401/class-37)\
-[Class 38](https://bgmcmullen.github.io/reading-notes/401/class-38)
+[Class 38](https://bgmcmullen.github.io/reading-notes/401/class-38)\
+[Class 39](https://bgmcmullen.github.io/reading-notes/401/class-39)
