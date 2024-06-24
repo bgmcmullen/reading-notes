@@ -2,9 +2,9 @@
 
 ## getting started with react native
 ### 1. Name three Core Components of React Native and describe what they do.
-<View>: A container component that can support flexbox, accessibility controls and touch handling.\
-<Text>: displays and styles text and can has some touch handling.
-<Image>: displays an image.\
+"View": A container component that can support flexbox, accessibility controls and touch handling.\
+"Text": displays and styles text and can has some touch handling.
+"Image": displays an image.\
 ### 2.What problem does React Native solve (why call it native)?
 ## The purpose of React Native is to allow developer to create Android and iOS applications with React.
 ### 3.What are the building blocks of a React Native app? How does that compare to a React app?
